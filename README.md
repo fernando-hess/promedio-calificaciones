@@ -14,5 +14,6 @@ Este programa en C permite ingresar las calificaciones de tres materias para un 
    ```bash
    gcc -o calificaciones programa.c
 2. Ejecuta el programa:
+3. ```bash
    ./calificaciones
-3. Introduce las calificaciones cuando se te solicite.
+4. Introduce las calificaciones cuando se te solicite.
